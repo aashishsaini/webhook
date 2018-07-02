@@ -1,0 +1,8 @@
+production:
+  webhook_secret: #pass your webhook secret here
+
+development:
+  webhook_secret: 'bafe4dea68c28c1894a1f877e700d901afa53899'
+
+testing:
+  webhook_secret: 'bafe4dea68c28c1894a1f877e700d901afa53899'
