@@ -58,10 +58,16 @@ The Events endpoint will expose the persist the events by an api that will filte
 * Success and have fun :-)
 
 **Design**
-This is API only app only has api endpoints
+`This is API only app only has api endpoints`
+
 
 **How to run**
-
+- `git clone <repo url>`
+- `install ruby 2.5.1 using rvm`
+- `cd folder_name`
+- `it will automatically create gemset and select the ruby version`
+- `gem install bundler`
+- `bundle install`
 - `open config/webhook.yml`
 - `modify 'webhook_secret' under specified environment`
 - `rake db:create`
