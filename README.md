@@ -58,7 +58,7 @@ The Events endpoint will expose the persist the events by an api that will filte
 * Success and have fun :-)
 
 **Design**
-`This is API only app only has api endpoints`
+- `This is API only app only has api endpoints`
 
 
 **How to run**
